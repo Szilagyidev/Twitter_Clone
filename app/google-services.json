@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "385418890171",
+    "firebase_url": "https://faketwitter-f050e-default-rtdb.firebaseio.com",
+    "project_id": "faketwitter-f050e",
+    "storage_bucket": "faketwitter-f050e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385418890171:android:a8326ad22afa1994e8129e",
+        "android_client_info": {
+          "package_name": "com.example.faketwitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385418890171-572rrqnc2dplvrgg52cd6sgdiov7oc1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkYYuzgXjzB5v5qP9ONjQuhATfrMPmNS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385418890171-572rrqnc2dplvrgg52cd6sgdiov7oc1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
