@@ -1,5 +1,5 @@
 # Twitter_Clone
-DEBUG APK ROSSZ LETT LÉGYSZI SZEDD LE A REPOT ÉS ÚGY TESZTELD LE, kösz <3
+DEBUG APK ROSSZ LETT LÉGYSZI SZEDD LE A REPOT ÉS ÚGY TESZTELD LE, köszi <3
 Az alábbi funkciókat valosítottam meg:
 - Firebase autentikáció
 - Adatmodell definiálása
